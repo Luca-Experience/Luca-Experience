@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me luca.daddona@outlook.com
 
-My first static Website written with HMTL, CSS, and a little bit Javascript. 
+My first static Website written with HMTL, CSS, and a little bit of Javascript. 
                  https://musing-darwin-775fbd.netlify.app       
 
